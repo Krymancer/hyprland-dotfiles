@@ -1,7 +1,5 @@
 # [Hyprland] Catppuccin Mocha Dotfiles
 
-## Dependencies
-
 ## Screenshots
 
 ![Home](https://raw.githubusercontent.com/Krymancer/hyprland-dotfiles/main/.assets/screenshots/1664218694_grim.png)
