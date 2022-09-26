@@ -1,0 +1,54 @@
+window {
+    font-family: "Ubuntu NF";
+    font-size: 14px;
+    color: #cdd6f4;  /* text */
+    background-color: rgba(30, 30, 46, 0.3);
+}
+
+button {
+    outline: none;
+    min-height: 120px;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25%;
+    border: none;
+    outline: none;
+    background-color: rgba(30, 30, 46, 0);
+    margin: 5px;
+    transition: box-shadow .20s ease-in-out, background-color .20s ease-in-out;
+}
+
+button:hover {
+    /*bacground-color: #313244; */
+}
+
+button:focus {
+    background-color: #cba6f7;
+    color: #1e1e2e;
+}
+
+button:active {
+    background-color: #6c7086;
+    color: #1e1e2e;
+}
+
+#lock {
+    background-image: image(url("./lock.png"));
+}
+
+#logout {
+    background-image: image(url("./exit-to-app.png"));
+}
+
+#suspend {
+    background-image: image(url("./power-sleep.png"));
+}
+
+#shutdown {
+    background-image: image(url("./power.png"));
+}
+
+#reboot {
+    background-image: image(url("./restart.png"));
+}
