@@ -28,4 +28,4 @@
 - [Firefox theme](https://github.com/catppuccin/firefox) Firefox theme (slight modded)
 
 ## Credits
-Most of my current setup is based (somethings straight up copied) from [amitGolden](github.com/amitGolden/) check him out!
+Most of my current setup is based (somethings straight up copied) from [amitGolden](https://github.com/AmitGolden/) check him out!
