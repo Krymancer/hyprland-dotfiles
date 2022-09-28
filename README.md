@@ -1,4 +1,4 @@
-# [Hyprland] Catppuccin Mocha Dotfiles
+# [Hyprland] Catppuccin Mocha
 
 ## Screenshots
 
@@ -7,6 +7,7 @@
 ![Nvim](https://raw.githubusercontent.com/Krymancer/hyprland-dotfiles/main/.assets/screenshots/screenshots/nvim.png)
 ![Nvim](https://raw.githubusercontent.com/Krymancer/hyprland-dotfiles/main/.assets/screenshots/screenshots/nvim-work.png)
 ![Launcher](https://raw.githubusercontent.com/Krymancer/hyprland-dotfiles/main/.assets/screenshots/screenshots/launcher.png)
+![Lock](https://raw.githubusercontent.com/Krymancer/hyprland-dotfiles/main/.assets/screenshots/screenshots/menu.png)
 ![Lock](https://raw.githubusercontent.com/Krymancer/hyprland-dotfiles/main/.assets/screenshots/screenshots/lock.png)
 ![Firefox](https://raw.githubusercontent.com/Krymancer/hyprland-dotfiles/main/.assets/screenshots/screenshots/firefox.png)
 
